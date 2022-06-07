@@ -1,0 +1,1 @@
+gcc 02.c -std=c99 -pedantic -Wall -Werror -Wextra -o 02

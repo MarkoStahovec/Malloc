@@ -1,0 +1,104 @@
+$$$
+Eliya
+Leopard cejlonsky
+193
+27.98
+20120411
+20201102
+Jozef Kovacs
+$$$
+Melman
+Zirafa Rothschildova
+529
+1108.32
+20180225
+20201103
+Michaela Novakova
+$$$
+Garfield
+Perzska macka
+123
+50
+20190305
+20201010
+Jon Arbuckle
+$$$
+Snoopy
+Pes bigl
+90
+30.5
+20170705
+20200809
+Charlie Brown
+$$$
+Scooby Doo
+Nemecka doga
+180
+130.5
+20100510
+20190812
+Shaggy
+$$$
+Stuart Little
+Mys
+50
+10.12
+20171125
+20200408
+Frederick Little
+$$$
+Bambi
+Jelen bielochvosty
+145
+120.124
+20051020
+20200110
+Felix Salten 
+$$$
+Tom
+Macka domaca
+145
+80.749
+20001020
+20200510
+Mammy Two Shoes
+$$$
+Winnie the Pooh
+Medved
+100
+1000.123
+20110510
+20201111
+Christopher Robin
+$$$
+Marty
+Zebra kvaga
+200
+150.45
+20150405
+20201012
+Chris Rock
+$$$
+Donald Trump
+Orangutan bornejsky
+172
+80.5
+19791005
+20201012
+Joe Biden
+$$$
+Perry
+Vtakopysk divny
+100
+72.1
+20051012
+20150312
+Ferb
+$$$
+Simba
+Lev
+120
+92.1
+20100510
+20200307
+Walt Disney

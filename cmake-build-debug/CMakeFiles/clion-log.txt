@@ -1,0 +1,133 @@
+C:\Users\A\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\A\CLionProjects\zadanie8
+-- Configuring done
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Cannot find source file:
+
+    projekt2a.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:13 (add_executable):
+  Cannot find source file:
+
+    struk1.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:15 (add_executable):
+  Cannot find source file:
+
+    struk2.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:16 (add_executable):
+  Cannot find source file:
+
+    struk3.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:17 (add_executable):
+  Cannot find source file:
+
+    struk4.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:18 (add_executable):
+  Cannot find source file:
+
+    struk5.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:19 (add_executable):
+  Cannot find source file:
+
+    projekt1_struct.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:22 (add_executable):
+  Cannot find source file:
+
+    struct1.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:35 (add_executable):
+  Cannot find source file:
+
+    bit_inverse.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:34 (add_executable):
+  Cannot find source file:
+
+    students.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  No SOURCES given to target: projekt2a
+
+
+CMake Error at CMakeLists.txt:13 (add_executable):
+  No SOURCES given to target: struk1
+
+
+CMake Error at CMakeLists.txt:15 (add_executable):
+  No SOURCES given to target: struk2
+
+
+CMake Error at CMakeLists.txt:16 (add_executable):
+  No SOURCES given to target: struk3
+
+
+CMake Error at CMakeLists.txt:17 (add_executable):
+  No SOURCES given to target: struk4
+
+
+CMake Error at CMakeLists.txt:18 (add_executable):
+  No SOURCES given to target: struk5
+
+
+CMake Error at CMakeLists.txt:19 (add_executable):
+  No SOURCES given to target: projekt1_struct
+
+
+CMake Error at CMakeLists.txt:22 (add_executable):
+  No SOURCES given to target: struct1
+
+
+CMake Error at CMakeLists.txt:35 (add_executable):
+  No SOURCES given to target: bit_inverse
+
+
+CMake Error at CMakeLists.txt:34 (add_executable):
+  No SOURCES given to target: students
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
